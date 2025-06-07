@@ -29,6 +29,6 @@ In this project, I designed and trained a Byte-Pair Encoding (BPE) tokenizer opt
 
 ##  Status
 
-✔️ BPE model finalized  
-✔️ Plug-and-play ready for transformer models  
+ BPE model finalized  
+ Plug-and-play ready for transformer models  
 
